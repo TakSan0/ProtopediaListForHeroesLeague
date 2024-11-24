@@ -1,0 +1,2 @@
+# ProtopediaListForHeroesLeague
+ヒーローズリーグ評価用にProtopediaのリストを作成する
